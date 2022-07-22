@@ -1,4 +1,4 @@
-#<a href="https://tangerine-dolphin-703b20.netlify.app/" target="_blank">URL to view project/</a>
+## <a href="https://tangerine-dolphin-703b20.netlify.app/" target="_blank">URL to view project</a>
 
 # Getting Started with Create React App
 
