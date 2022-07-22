@@ -1,4 +1,4 @@
-[text-to-highlight](https://tangerine-dolphin-703b20.netlify.app/){:target="_blank"}
+## <a href="https://tangerine-dolphin-703b20.netlify.app/">URL for Porject (Opens in the same tab. Windows+Linux:Ctrl+Click Mac:Cmd+Click)</a>
 
 # Getting Started with Create React App
 
