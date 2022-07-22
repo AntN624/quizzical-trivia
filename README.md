@@ -1,4 +1,4 @@
-[link]([url](https://tangerine-dolphin-703b20.netlify.app/)){:target="_blank"}
+[text-to-highlight](https://tangerine-dolphin-703b20.netlify.app/){:target="\_blank"}
 
 # Getting Started with Create React App
 
